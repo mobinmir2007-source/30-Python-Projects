@@ -1,0 +1,12 @@
+[
+    {
+        "city": "Tehran",
+        "country": "IR",
+        "temperature": 35.4,
+        "feels_like": 32.64,
+        "humidity": 8,
+        "description": "Clear sky",
+        "wind_speed": 4.92,
+        "timestamp": "2026-07-05 17:27:00"
+    }
+]
